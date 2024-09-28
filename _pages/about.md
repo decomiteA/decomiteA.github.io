@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello 
+I am a postdoctoral researcher in the K Lisa Yang Integrative Computational Neuroscience center and the McGovern Institute for Brain Research at MIT. I study comparative motor control across species with Prof. Nidhi Seethapathi.
 
 Research interests
 ======

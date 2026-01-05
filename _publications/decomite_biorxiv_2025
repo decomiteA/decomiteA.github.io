@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 excerpt: 'This work uses an infinite horizon optimal feedback controller to capture the different tradeoffs underlying movement duration in reaching movements'
 date: 2025-10-22
-venue: 'bioRxiv'
+venue: 'Neural Computation (in press)'
 paperurl: 'https://www.biorxiv.org/content/10.1101/2025.10.22.683958v1.abstract'
 citation: 'De Comite, Kalidindi, Pruszynski, and Crevecoeur. (2025). &quot;Infinite horizon control captures modulation of movement duration in reaching movements.&quot; <i>bioRxiv 1</i>.'
 ---

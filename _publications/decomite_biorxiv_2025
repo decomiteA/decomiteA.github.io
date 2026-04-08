@@ -1,11 +1,11 @@
 ---
-title: "Infinite horizon control captures modulation of movement duration in reaching movements"
+title: "Infinite horizon control with nonlinear dynamics reproduces temporal modulation of reaching movements"
 collection: publications
 category: manuscripts
 excerpt: 'This work uses an infinite horizon optimal feedback controller to capture the different tradeoffs underlying movement duration in reaching movements'
-date: 2025-10-22
-venue: 'Neural Computation (in press)'
-paperurl: 'https://www.biorxiv.org/content/10.1101/2025.10.22.683958v1.abstract'
+date: 2026
+venue: 'Neural Computation, 38, 1-22'
+paperurl: 'https://direct.mit.edu/neco/article/doi/10.1162/NECO.a.1515/136225/Infinite-Horizon-Control-With-Nonlinear-Dynamics'
 citation: 'De Comite, Kalidindi, Pruszynski, and Crevecoeur. (2025). &quot;Infinite horizon control captures modulation of movement duration in reaching movements.&quot; <i>bioRxiv 1</i>.'
 ---
 
